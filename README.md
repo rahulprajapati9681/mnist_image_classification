@@ -1,7 +1,7 @@
 # MNIST Image Classification
 A simple deep learning project to classify handwritten digits using the MNIST dataset.
 
-📌 Overview
+📌 #Overview
 This repository contains a basic image classification model trained on the MNIST dataset. MNIST is a collection of 70,000 grayscale images of handwritten digits (0–9), commonly used for benchmarking machine learning models in image classification tasks.
 
 This project is ideal for beginners looking to understand:
